@@ -11,6 +11,6 @@ To enable links in PDF Files, you need to download each document.
 
 ### Code will soon be shared in this same project.
 
-![UANL Logo](Image_URL_or_Path)
+![UANL Logo](Uanl.png)
 
 ![UCBL1 Logo](Image_URL_or_Path)
