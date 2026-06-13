@@ -13,4 +13,4 @@ To enable links in PDF Files, you need to download each document.
 
 ![UANL Logo](Uanl.png)
 
-![UCBL1 Logo](Image_URL_or_Path)
+![UCBL1 Logo](UnivLyon.png)
