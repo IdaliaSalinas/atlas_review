@@ -1,7 +1,5 @@
 # REFERENCES
 
-This file provides clean, accessible, and clickable references for the associated research project. 
-
 
 * Abassian, A., Safi, F., Bush, S., & Bostic, J. (2020). Five different perspectives on mathematical modeling in mathematics education. Investigations in Mathematics Learning, 12(1), 53-65. [https://doi.org/10.1080/19477503.2019.1595360](https://doi.org/10.1080/19477503.2019.1595360)
 
